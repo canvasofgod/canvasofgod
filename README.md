@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Micah! 👋
+I'm a Christian graphic designer, illustrator, and web developer. I primarily work for authors, musicians, and organizations who are dedicated to spreading the message of Jesus Christ.
 
-<!--
-**canvasofgod/canvasofgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/canvasofgod)
+[![](https://img.shields.io/badge/-Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/canvasofgod)
+[![](https://img.shields.io/badge/-Github-4e277b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/canvasofgod)
 
-Here are some ideas to get you started:
+### Programming Languages 🌎
+- Javascript
+- HTML & CSS
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks & Libraries 📦
+- React JS
+- Sass
+- Wordpress
+
+### Tools 🧰
+- VS Code
+- Git & Github
+- NPM (Node Package Manager)
+- Terminal
+- Local by Flywheel
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe Indesign
+- Figma
